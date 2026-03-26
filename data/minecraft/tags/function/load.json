@@ -1,0 +1,6 @@
+{
+  "values": [
+    "call_your_parrot:setup",
+    "call_your_parrot:load_message"
+  ]
+}

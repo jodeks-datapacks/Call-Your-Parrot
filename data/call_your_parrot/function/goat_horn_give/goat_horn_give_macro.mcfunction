@@ -1,0 +1,1 @@
+$item replace entity @s hotbar.$(goat_horn_slot) with goat_horn[custom_name='$(cat_name)',lore=[{color:"dark_purple",italic:false,text:"Owner: $(player_name)"}],custom_data={tag:{goat_horn_to_call_cat:1b},cat_call:{UUID:$(cat_UUID_to_call)}},enchantment_glint_override=true,instrument="$(goat_horn_instrument)"]
