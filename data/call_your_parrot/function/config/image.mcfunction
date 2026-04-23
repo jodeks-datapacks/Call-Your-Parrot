@@ -14,9 +14,9 @@ function call_your_parrot:image/set_image_data {\
   background_color: "#303030",\
   description: [\
     {text: "Call Your Parrot"},\
-    {translate: "call_your_parrot.description", fallback: "Easily Easily call (whistle) your parrot with a goat horn to teleport it to you"},\
+    {translate: "call_your_parrot.description", fallback: "Easily call your parrot with a goat horn"},\
     "",\
-    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.4.1", color: "#54fc54"}],\
+    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v2.0.0", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/call-your-parrot", color: "#a800a8"},\

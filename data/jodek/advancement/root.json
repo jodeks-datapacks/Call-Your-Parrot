@@ -13,7 +13,7 @@
         }
       }
     },
-    "title": "Jodeks Datapacks                       ",
+    "title": "Jodek's Datapacks        ",
     "description": [
       {
         "text": "Creator of vanilla friendly datapacks\n",
@@ -45,7 +45,7 @@
               "type": "minecraft:score",
               "target": {
                 "type": "minecraft:fixed",
-                "name": "&call_your_parrot_advancements"
+                "name": "&call_your_cat_advancements"
               },
               "score": "jodek.config"
             },

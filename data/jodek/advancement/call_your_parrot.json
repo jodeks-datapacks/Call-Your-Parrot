@@ -3,12 +3,34 @@
     "icon": {
       "id": "minecraft:goat_horn"
     },
-    "title": "Call Your Parrot        ",
+    "title": "Call Your Parrot                     ",
     "description": [
       {
         "translate": "call_your_parrot.description",
-        "fallback": "Easily Easily call (whistle) your parrot with a goat horn to teleport it to you",
+        "fallback": "Call your parrot with a goat horn",
         "color": "white"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "/trigger call_your_parrot.config",
+        "color": "yellow"
+      },
+      {
+        "text": "\n\n"
+      },
+      {
+        "translate": "call_your_parrot.usage",
+        "fallback": "Sneak with a goat horn while looking at a tamed + named parrot",
+        "color": "white"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "/trigger call_your_parrot.config",
+        "color": "yellow"
       },
       {
         "text": "\n\n"
@@ -19,7 +41,7 @@
         "color": "dark_green"
       },
       {
-        "text": "v1.4.1",
+        "text": "v2.0.0",
         "color": "green"
       },
       {
@@ -47,7 +69,7 @@
               "type": "minecraft:score",
               "target": {
                 "type": "minecraft:fixed",
-                "name": "&call_your_parrot_advancements"
+                "name": "&call_your_cat_advancements"
               },
               "score": "jodek.config"
             },
